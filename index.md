@@ -71,8 +71,7 @@ WHY TRAVEL FOR COLOMBIA?
                 <td>Changua</td>
              </tr>
          </table>
-        </main>
+       
          <script src="script.js"></script>
-    </body>
     
-</html>
+    
