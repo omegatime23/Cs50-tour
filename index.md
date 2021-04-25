@@ -50,6 +50,7 @@ WHY TRAVEL FOR COLOMBIA?
          <h3> Colombia is one of the most beautiful countries in the world. It has an enviable climate and some of the best forests, beaches, rare species of plants and animals, and is home to diverse cultures. One of the striking features is the love for coffee. Coffee growing in Colombia is a part of the national identity.</h3>
          
          <h3 class= "about">I love these things of Colombia</h3>
+         <img src="beach.jpng" alt="sunset image">
          <ul>
              <li>People</li>
              <li>Food</li>
