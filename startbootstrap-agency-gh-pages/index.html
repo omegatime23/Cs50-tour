@@ -34,8 +34,8 @@ WHY TRAVEL FOR COLOMBIA?
                 </il>
 
                 <il class="nav-item">
-                     <a class="nav-link" href="football.html">
-                      football
+                     <a class="nav-link" href="bogota.html">
+                      bogota
                      </a>
                 </il>
 
