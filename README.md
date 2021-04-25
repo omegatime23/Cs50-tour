@@ -29,7 +29,7 @@ WHY TRAVEL FOR COLOMBIA?
 
                 <il class="nav-item">
                      <a class="nav-link" href="medellin.html">
-                      tennis
+                      medellin
                      </a>
                 </il>
 
