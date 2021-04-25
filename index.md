@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/omegatime23/FINAL-PROYECT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+        <link href="styles.css" rel="stylesheet">
+        <title>My Webpage</title>
+    </head>
+    <body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+        <nav class= "navbar navbar-expand-md navbar-light bg-border">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+             <ul class="navbar-nav mr-auto-2">
 
-```markdown
-Syntax highlighted code block
+                 <il class="nav-item">
+                     <a class="nav-link" href="index.html">
+                      Home
+                     </a>
+                </il>
 
-# Header 1
-## Header 2
-### Header 3
+                    <il class="nav-item">
+                     <a class="nav-link" href="Basketball.html">
+                      Basketball
+                     </a>
+                </il>
 
-- Bulleted
-- List
+                <il class="nav-item">
+                     <a class="nav-link" href="tennis.html">
+                      tennis
+                     </a>
+                </il>
 
-1. Numbered
-2. List
+                <il class="nav-item">
+                     <a class="nav-link" href="football.html">
+                      football
+                     </a>
+                </il>
 
-**Bold** and _Italic_ and `Code` text
+             </ul>
 
-[Link](url) and ![Image](src)
-```
+        </nav>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+        <main class="container p-5">
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omegatime23/FINAL-PROYECT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+              </h1>Hello,  this is <span id="name">omega</h1>
+         <h3> A very simple webpage</h3>
+         <img src="minion.jpeg" alt="sunset image">
 
-### Support or Contact
+         <h3 class= "about">I love these sports</h3>
+         <ul>
+             <li>Basketball</li>
+             <li>Tennis</li>
+             <li>Football</li>
+         </ul>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+         <h4 class="about">these are some of my favorite players</h4>
+         <table>
+             <tr>
+                 <th>Sport</th>
+                 <th>Player</th>
+             </tr>
+             <tr>
+                <td>Football</td>
+                <td>cristiano ronaldo</td>
+             </tr>
+             <tr>
+                <td>Basketball</td>
+                <td>  michel jordan </td>
+             </tr>
+         </table>
+        </main>
+         <script src="script.js"></script>
+    </body>
+    
+</html>
