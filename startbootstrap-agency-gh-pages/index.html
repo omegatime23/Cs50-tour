@@ -49,14 +49,14 @@ WHY TRAVEL FOR COLOMBIA?
               Hello,  this is <span id="name">omega
          <h3> Colombia is one of the most beautiful countries in the world. It has an enviable climate and some of the best forests, beaches, rare species of plants and animals, and is home to diverse cultures. One of the striking features is the love for coffee. Coffee growing in Colombia is a part of the national identity.</h3>
          
-         <h3 class= "about">I love these thingS of Colombia</h3>
+         <h3 class= "about">I love these things of Colombia</h3>
          <ul>
              <li>People</li>
              <li>Food</li>
              <li>Places</li>
          </ul>
 
-         <h4 class="about">these are some of my favorite places</h4>
+         <h4 class="about">there are some of my favorite places</h4>
          <table>
              <tr>
                  <th>Places</th>
@@ -65,12 +65,16 @@ WHY TRAVEL FOR COLOMBIA?
                   <th>art</th>
              </tr>
              <tr>
-                <td>medellin</td>
+                <td>Medellin</td>
                 <td>Bandeja paisa</td>
+                <td>friendly people</td>
+                <td>Botero</td>
              </tr>
              <tr>
-                <td>bogota</td>
+                <td>Bogota</td>
                 <td>Changua</td>
+                <td>Dinamic</td>
+                <td>museums</td>
              </tr>
          </table>
        
